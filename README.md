@@ -1,3 +1,9 @@
-# android_vendor_xiaomi_hermes
+# Proprietary blob for Redmi Note 2 (Hermes)
 
-Vendor tree created using MIUI 7.1.3.0 (Stable Version)
+### Other resource:
+  - Device tree https://github.com/jianminglok/android_device_xiaomi_hermes
+  - Kernel source: Not released yet
+
+### Credits (Sort by alphabetical order):
+  - nofearnohappy
+  - The CyanogenMod Team
